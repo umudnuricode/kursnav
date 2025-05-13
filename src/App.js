@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className='menu'>
+          Esas Sehife
       <NavLink to="/kursnav/">
           Esas Sehife
       </NavLink>
