@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className='menu'>
-      <NavLink to="kursnav/">
+      <NavLink to="/kursnav/">
           Esas Sehife
       </NavLink>
       <NavLink to="/Haqqında">
@@ -23,7 +23,7 @@ function App() {
       </NavLink>
       </div>
     <Routes>
-      <Route path="kursnav/" element={<Main />}></Route>
+      <Route path="/kursnav/" element={<Main />}></Route>
       <Route path="/Haqqında" element={<Haqqinda />}></Route>
       <Route path="/İş nümunələri" element={<Isler />}></Route>
       <Route path="/Əlaqə məlumatları" element={<Elaqe />}></Route>
