@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kursnav/static/css/main.f5eac52e.css",
-    "main.js": "/kursnav/static/js/main.68c2b274.js",
+    "main.js": "/kursnav/static/js/main.1663c4ef.js",
     "static/js/453.42645ebd.chunk.js": "/kursnav/static/js/453.42645ebd.chunk.js",
     "index.html": "/kursnav/index.html",
     "main.f5eac52e.css.map": "/kursnav/static/css/main.f5eac52e.css.map",
-    "main.68c2b274.js.map": "/kursnav/static/js/main.68c2b274.js.map",
+    "main.1663c4ef.js.map": "/kursnav/static/js/main.1663c4ef.js.map",
     "453.42645ebd.chunk.js.map": "/kursnav/static/js/453.42645ebd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5eac52e.css",
-    "static/js/main.68c2b274.js"
+    "static/js/main.1663c4ef.js"
   ]
 }
